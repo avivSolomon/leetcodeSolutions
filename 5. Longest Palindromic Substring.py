@@ -57,14 +57,6 @@ def longestPalindrome2(s):
         return max_len
 
 
-
-
-
-
-
-
-
-
 print(longestPalindrome2("baba"))
 # print(longestPalindrome2("cbbdas"))
 print(longestPalindrome2("bb"))

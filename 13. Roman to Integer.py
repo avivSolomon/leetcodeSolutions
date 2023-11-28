@@ -21,5 +21,5 @@ class Solution:
             i += 1
         return trans
 
-print(trans_roman_to_int(input('enter romans dig:')))
+# print(trans_roman_to_int(input('enter romans dig:')))
 

@@ -18,5 +18,5 @@ def double_letter(my_str):
 
 print(double_letter("we are the champions!"))
 
-wwee  aarree  tthhee  cchhaammppiioonnss!!
-wwee  aarree  tthhee  cchhaammppiioonnss!!
+st = """wwee  aarree  tthhee  cchhaammppiioonnss!!
+wwee  aarree  tthhee  cchhaammppiioonnss!!"""
